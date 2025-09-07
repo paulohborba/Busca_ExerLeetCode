@@ -12,10 +12,10 @@ Este projeto tem como objetivo aprofundar o conhecimento em sobre Algoritmos de 
 Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
-| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução]( ) |
 |   | [ ]( )               | Difícil     | [ ]( ) | [Solução]( ) |
-| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução]( )  |
 |   | [ ]( )               |         | [ ]( ) | [Solução]( ) |
+| 41 | [First Missing Positive](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema41.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema41.py) |
+| 76 | [Minimum Window Substring](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema76.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema76.py)  |
 
 ## Screenshots
 ![Problema ]( ) <br>
@@ -24,11 +24,11 @@ Os exercícios abordados são os seguintes:
 ![Problema ]( ) <br>
 *Problema aceitação* <br><br>
 
-![Problema ]( ) <br>
-*Problema aceitação* <br> <br>
+![Problema 41](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/img/img41.png) <br>
+*Problema 41 aceitação* <br> <br>
 
-![Problema ]( ) <br>
-*Problema aceitação* <br> <br>
+![Problema 76](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/img/img76.png) <br>
+*Problema 76 aceitação* <br> <br>
 
 ## Instalação 
 **Linguagem**: Python<br>
